@@ -81,6 +81,7 @@
     | 1395. | <span style="color:orange">Medium</span> | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/count-number-of-teams.py) |
     | 1399. | <span style="color:green">Easy</span> | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/count-largest-group.py) |
     | 1464. | <span style="color:green">Easy</span> | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/maximum-product-of-two-elements-in-an-array.py) |
+    | 1539. | <span style="color:green">Easy</span> | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/kth-missing-positive-number.py) |
   
 - ### **Binary Search**
 
@@ -89,7 +90,7 @@
     | 33. | <span style="color:orange">Medium</span> | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-in-rotated-sorted-array.py) |
     | 74. | <span style="color:orange">Medium</span> | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-a-2d-matrix.py) |
     | 240. | <span style="color:orange">Medium</span> | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/search-a-2d-matrix-ii.py) |
-    | 278. | <span style="color:green">Easy</span> | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/first-bad-version.py) |
+    | 278. | <span style="color:green">Easy</span> | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/first-bad-version.py) |
     | 367. | <span style="color:green">Easy</span> | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/valid-perfect-square.py) |
     | 441. | <span style="color:green">Easy</span> | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/arranging-coins.py) |
     | 528. | <span style="color:orange">Medium</span> | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/binary-search/random-pick-with-weight.py) |
@@ -180,6 +181,7 @@
     | 83. | <span style="color:green">Easy</span> | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-duplicates-from-sorted-list.py) \| [C++](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-duplicates-from-sorted-list.cpp) |
     | 92. | <span style="color:orange">Medium</span> | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reverse-linked-list-ii.py) |
     | 141. | <span style="color:green">Easy</span> | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle.py) |
+    | 142. | <span style="color:orange">Medium</span> | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/linked-list-cycle-ii.py) |
     | 160. | <span style="color:green">Easy</span> | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/intersection-of-two-linked-lists.py) |
     | 203. | <span style="color:green">Easy</span> | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/remove-linked-list-elements) |
     | 206. | <span style="color:green">Easy</span> | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reverse-linked-list.py) \| [C](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/linked-list/reverse-linked-list.c) |
@@ -197,6 +199,7 @@
     
     | Sl No.| Level | Questions | Solution |
     | :---: | :---: | :--- | :--- |
+    | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |
     | 258. | <span style="color:green">Easy</span> | [Add Digits](https://leetcode.com/problems/add-digits/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/add-digits.py) |
  
 
@@ -339,3 +342,4 @@
     | 4 | 342. | <span style="color:green">Easy</span> | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/bit-manipulation/power-of-four.py) |
     | 6 | 442. | <span style="color:orange">Medium</span> | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/array/find-all-duplicates-in-an-array.py) |  
     | 7 | 987. | <span style="color:orange">Medium</span> | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/leetcode/tree/vertical-order-traversal-of-a-binary-tree.py) |
+    | 10 | 171. | <span style="color:green">Easy</span> | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Python](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/leetcode/math/excel-sheet-column-number.py) |

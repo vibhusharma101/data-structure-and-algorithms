@@ -21,7 +21,7 @@ Welcome to Interview Documentation!
    :caption: Data Structures
    :name: Data Structures
 
-   data-structures/list
+   data-structures/array
    data-structures/linked-list
 
 .. raw:: latex
@@ -34,6 +34,9 @@ Welcome to Interview Documentation!
    :name: Algorithms
 
    algorithms/array
+   algorithms/linked-list
+   algorithms/searching
+
 
 .. raw:: latex
 
@@ -45,6 +48,8 @@ Welcome to Interview Documentation!
    :name: Resources
 
    resources
+   credits
+   collaborators
 
 Indices and tables
 ==================

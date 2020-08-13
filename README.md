@@ -34,18 +34,23 @@ Follow the link [https://gitter.im/data-structure-and-algorithms/community](http
 
 # Contents
 
-- ## [Data Structures](Data-Structures)
-    - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#abstract-data-type)
-    - [Computational Complexity Analysis](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures#computational-complexity-analysis)
-    - [Array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/array)
-    - [Linked List](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/linked-list)
-    - [Tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/tree)
-    - [Sorting](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/Sorting)
-    - [Searching](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/Data-Structures/searching)
+- ## [Data Structures](DataStructures)
+    - [Abstract Data Type](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures#abstract-data-type)
+    - [Computational Complexity Analysis](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures#computational-complexity-analysis)
+    - [Array](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/Array)
+    - [Linked List](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/LinkedList)
+    - [Tree](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/DataStructures/tree)
     
 - ## [Algorithms](algorithms)
-    - [Boyer Moore Majority Vote Algorithm](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/array/boyer-moore-majority-vote-algorithm.md)
-
+    - ### Array
+        - [Boyer Moore Majority Vote Algorithm](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/array/boyer-moore-majority-vote-algorithm.md)
+    - ### Linked List
+        - [Floyd's Tortoise and Hare](https://github.com/ramanaditya/data-structure-and-algorithms/blob/master/algorithms/LinkedList/floyds_tortoise_and_hare.py)
+    - ### Searching
+        - [Searching](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/algorithms/searching)
+    - ### Sorting
+        - [Sorting](https://github.com/ramanaditya/data-structure-and-algorithms/tree/master/algorithms/Sorting)
+    
 - ## [Interview Preparation](interview)
     - [Interview Preparation](./interview/README.md)
     - [Networking](./interview/networking.md)

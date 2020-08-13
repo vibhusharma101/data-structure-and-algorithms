@@ -15,6 +15,11 @@ import sys
 from datetime import date
 
 sys.path.insert(0, os.path.abspath("."))
+sys.path.insert(0, os.path.abspath("./Scripts"))
+sys.path.insert(0, os.path.abspath("./Scripts/data_structures"))
+sys.path.insert(0, os.path.abspath("./Scripts/algorithms"))
+sys.path.insert(0, os.path.abspath("../../algorithms/"))
+sys.path.insert(0, os.path.abspath("../../DataStructures/"))
 
 # -- Project information -----------------------------------------------------
 
@@ -23,7 +28,7 @@ copyright = "2020, Aditya Raman"
 author = "Aditya Raman"
 
 # The full version, including alpha/beta/rc tags
-release = "v0.1.0"
+version = release = "v0.1.0"
 today = str(date.today())
 language = "en"
 # -- General configuration ---------------------------------------------------
@@ -31,7 +36,12 @@ language = "en"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["sphinx_rtd_theme"]
+extensions = [
+    "sphinx_rtd_theme",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.napoleon",
+    "sphinx.ext.viewcode",
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
